@@ -1,3 +1,10 @@
+# WBTC - Compound Strategy
+
+Deposit WBTC into compound and use the available collateral to borrow in the Compound protocol. 
+
+Model deployed on Kovan at 0x2efA55Da1E46F4EcaF35e98F8Cd9bB5f9F3DF39D 
+
+
 # Solidity Template
 
 Uses
